@@ -1,5 +1,5 @@
 ---
-SPDX-License-Identifier: MIT
+SPDX-License-Identifier:  Apache-2.0 license
 path: "/tutorials/fix-jmicron-sata-controller-issues"
 slug: "fix-jmicron-sata-controller-issues"
 date: "2026-06-21"
@@ -240,7 +240,7 @@ After applying this configuration:
 -  random write performance around 100 MB/s  
 
 
-##### License: MIT
+##### License:  Apache-2.0 license
 
 <!---
 
