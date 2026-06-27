@@ -1,6 +1,6 @@
----
+<!---
 SPDX-License-Identifier:  Apache-2.0 license
-path: "/tutorials/fix-jmicron-sata-controller-issues"
+path: "fix-jmicron-sata-controller-issues"
 slug: "fix-jmicron-sata-controller-issues"
 date: "2026-06-21"
 title: "Fixing JMicron SATA Controller I/O Errors on Hetzner SX135 Server with 22TB HDDs"
@@ -14,7 +14,7 @@ header_img: "header-3"
 author_link: "https://github.com/viosioner-ua"
 author_img: "https://avatars.githubusercontent.com/u/295812815?v=4"
 cta: "SX135"
----
+--->
 
 ## Introduction
 
